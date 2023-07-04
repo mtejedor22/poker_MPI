@@ -1,0 +1,130 @@
+Script started on 2023-03-11 17:16:16-05:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="80" LINES="24"]
+mtejedor@cisc372:~/project2$ srun -n 1 ./poker
+enter number of trials
+1000
+We found 0 straight flushes out of 1000 hands or 0.000000 percent.
+it took 0.000448 seconds
+mtejedor@cisc372:~/project2$ srun -n 1 ./poker
+enter number of trials
+10000
+We found 0 straight flushes out of 10000 hands or 0.000000 percent.
+it took 0.004007 seconds
+mtejedor@cisc372:~/project2$ srun -n 1 ./poker
+enter number of trials
+100000
+We found 1 straight flushes out of 100000 hands or 0.001000 percent.
+it took 0.027724 seconds
+mtejedor@cisc372:~/project2$ srun -n 1 ./poker
+enter number of trials
+1000000
+We found 22 straight flushes out of 1000000 hands or 0.002200 percent.
+it took 0.207166 seconds
+mtejedor@cisc372:~/project2$ srun -n 1 ./poker
+enter number of trials
+10000000
+We found 146 straight flushes out of 10000000 hands or 0.001460 percent.
+it took 1.589918 seconds
+mtejedor@cisc372:~/project2$ srun -n 2 ./poker
+enter number of trials
+1000
+We found 0 straight flushes out of 1000 hands or 0.000000 percent.
+it took 0.000194 seconds
+mtejedor@cisc372:~/project2$ srun -n 2 ./poker
+enter number of trials
+10000
+We found 0 straight flushes out of 10000 hands or 0.000000 percent.
+it took 0.001484 seconds
+mtejedor@cisc372:~/project2$ srun -n 2 ./poker
+enter number of trials
+100000
+We found 1 straight flushes out of 100000 hands or 0.001000 percent.
+it took 0.014250 seconds
+mtejedor@cisc372:~/project2$ srun -n 2 ./poker
+enter number of trials
+1000000
+We found 16 straight flushes out of 1000000 hands or 0.001600 percent.
+it took 0.141201 seconds
+mtejedor@cisc372:~/project2$ srun -n 2 ./poker
+enter number of trials
+10000000
+We found 149 straight flushes out of 10000000 hands or 0.001490 percent.
+it took 1.415639 seconds
+mtejedor@cisc372:~/project2$ srun -n 4 ./poker
+enter number of trials
+1000
+We found 0 straight flushes out of 1000 hands or 0.000000 percent.
+it took 0.000121 seconds
+mtejedor@cisc372:~/project2$ srun -n 4 ./poker
+enter number of trials
+10000
+We found 0 straight flushes out of 10000 hands or 0.000000 percent.
+it took 0.000803 seconds
+mtejedor@cisc372:~/project2$ srun -n 4 ./poker
+enter number of trials
+100000
+We found 3 straight flushes out of 100000 hands or 0.003000 percent.
+it took 0.007318 seconds
+mtejedor@cisc372:~/project2$ srun -n 4 ./poker
+enter number of trials
+1000000
+We found 17 straight flushes out of 1000000 hands or 0.001700 percent.
+it took 0.071742 seconds
+mtejedor@cisc372:~/project2$ srun -n 4 ./poker
+enter number of trials
+10000000
+We found 141 straight flushes out of 10000000 hands or 0.001410 percent.
+it took 0.713921 seconds
+mtejedor@cisc372:~/project2$ srun -n 8 ./poker
+enter number of trials
+1000
+We found 0 straight flushes out of 1000 hands or 0.000000 percent.
+it took 0.000086 seconds
+mtejedor@cisc372:~/project2$ srun -n 8 ./poker
+enter number of trials
+10000
+We found 0 straight flushes out of 10000 hands or 0.000000 percent.
+it took 0.000485 seconds
+mtejedor@cisc372:~/project2$ srun -n 8 ./poker
+enter number of trials
+100000
+We found 2 straight flushes out of 100000 hands or 0.002000 percent.
+it took 0.004049 seconds
+mtejedor@cisc372:~/project2$ srun -n 8 ./poker
+enter number of trials
+1000000
+We found 20 straight flushes out of 1000000 hands or 0.002000 percent.
+it took 0.039828 seconds
+mtejedor@cisc372:~/project2$ srun -n 8 ./poker
+enter number of trials
+10000000
+We found 158 straight flushes out of 10000000 hands or 0.001580 percent.
+it took 0.396773 seconds
+mtejedor@cisc372:~/project2$ srun -n 16 ./poker
+enter number of trials
+1000
+We found 0 straight flushes out of 1000 hands or 0.000000 percent.
+it took 0.000148 seconds
+mtejedor@cisc372:~/project2$ srun -n 16 ./poker
+1enter number of trials
+10000
+We found 5 straight flushes out of 110000 hands or 0.004545 percent.
+it took 0.002650 seconds
+mtejedor@cisc372:~/project2$ srun -n 16 ./poker
+enter number of trials
+100000
+We found 3 straight flushes out of 100000 hands or 0.003000 percent.
+it took 0.002424 seconds
+mtejedor@cisc372:~/project2$ srun -n 16 ./poker
+enter number of trials
+1000000
+We found 10 straight flushes out of 1000000 hands or 0.001000 percent.
+it took 0.022920 seconds
+mtejedor@cisc372:~/project2$ srun -n 16 ./poker
+enter number of trials
+10000000
+We found 140 straight flushes out of 10000000 hands or 0.001400 percent.
+it took 0.227882 seconds
+mtejedor@cisc372:~/project2$ exit
+exit
+
+Script done on 2023-03-11 17:19:11-05:00 [COMMAND_EXIT_CODE="0"]
